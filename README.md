@@ -1,5 +1,10 @@
 # Robotica_lab2
+## Integrantes
 
+- Norma Lorena Martinez Zavala
+- Miguel Angel Sarmiento Cabarcas
+- Jaime Andres Sanchez Peralta
+##Descripción de solución.
 Para este laboratorio se tomó como base el trabajo realizado en el Laboratorio 1, donde el robot se programó para escribir las iniciales de cada integrante del equipo. En este caso, nos limitamos a escribir unicamente la primera palabra ("JAIME").
 
 Partiendo de esta base se incorporó una
