@@ -6,7 +6,9 @@ Partiendo de esta base se incorporó una
 nueva funcionalidad pues ahora el problema nos exige la utilización del tablero de usuario y para ello se requiere la definición de entradas y salidas digitales en nuestro programa.
 Como primer punto, se agregaron dos entradas y dos salidas digitales en nuestro programa de roboStudio. 
 Tabla de entradas y salidas digitales:
-(Imagen de roboStudio donde muestre esa parte)
+
+[![IMG-20230930-WA0042.jpg](https://i.postimg.cc/YqVVFfB7/IMG-20230930-WA0042.jpg)](https://postimg.cc/56BndztK)
+
 
 La siguiente imagen muestra el tablero, donde los botones verdes corresponden a las entradas, también se muestran los LEDs correspondientes a las salidas.
 
