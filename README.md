@@ -26,3 +26,8 @@ La segunda condicional establece que, cuando se presionesione el segundo botón,
 La siguiente imagen nos muestra el bucle y las condicionales:
 
 [![IMG-20230930-164930.jpg](https://i.postimg.cc/cJcsx5gT/IMG-20230930-164930.jpg)](https://postimg.cc/R3NrGdTn)
+
+
+##Diagrama de flujo
+
+[![IMG-20230930-WA0044.jpg](https://i.postimg.cc/Pxx9Z6Jt/IMG-20230930-WA0044.jpg)](https://postimg.cc/06TV1073)
