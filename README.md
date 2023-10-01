@@ -58,3 +58,7 @@ En cuanto a los procedimiendos "Path_80" y "Path_90", se utilizó la función --
 El video de la simulación se encuentra en:
 
 https://youtu.be/GLI_sjRHhyQ
+
+## Video práctica en el laboratorio 
+
+https://youtu.be/4o2ZLwMT_3U?si=LZbHJNCJEZ1d9bB9
