@@ -54,3 +54,7 @@ En cuanto a los procedimiendos "Path_80" y "Path_90", se utilizó la función --
 
 [![IMG-20230930-192159.jpg](https://i.postimg.cc/G2Y157Pb/IMG-20230930-192159.jpg)](https://postimg.cc/zbJMLkPQ)
 
+## Simulación
+El video de la simulación se encuentra en:
+
+https://youtu.be/GLI_sjRHhyQ
