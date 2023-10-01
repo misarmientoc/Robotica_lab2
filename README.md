@@ -31,3 +31,21 @@ La siguiente imagen nos muestra el bucle y las condicionales:
 ## Diagrama de flujo
 
 [![IMG-20230930-WA0044.jpg](https://i.postimg.cc/Pxx9Z6Jt/IMG-20230930-WA0044.jpg)](https://postimg.cc/06TV1073)
+
+
+## Descripción de las funciones utilizadas
+
+Para este laboratorio se usaron nuevas funciones en el código, las cuáles son descritas a continución:
+ 
+-set: Esta función se usa para establecer variables, en este caso definimos "out1" y "out2".
+
+-WHILE TRUE DO: Inicia el bucle infinito, lo que significa que el código dentro de este bucle se ejecutará repetidamente sin fin.
+
+-IF y ELSEIF: Son los condicionales con los que se ejecutará el código.
+
+-!SetDO: Este comando establece el estado dea salida digital, configuarmos para Out1 en 0 (apagado).
+
+-reset: Se utiliza para reestablecer variables
+
+
+-TPWrite: Utilizado para la impresión de mensajes
