@@ -50,4 +50,7 @@ Para este laboratorio se usaron nuevas funciones en el código, las cuáles son 
 
 -TPWrite: Utilizado para la impresión de mensajes
 
-En cuanto a los procedimiendos "Path_80" y "Path_90", se utilizó la función -->MoveAbsJ<-- la cual indica que se está realizando un movimiento de tipo absoluto para alcanzar una posición específica, la cual es: -->JointTarget_2<--, finalmente, se específican los parámetros de velocidad, la herramienta y el objeto de trabajo.
+En cuanto a los procedimiendos "Path_80" y "Path_90", se utilizó la función -->MoveAbsJ<-- la cual indica que se está realizando un movimiento de tipo absoluto para alcanzar una posición específica, la cual es: -->JointTarget_x<--, finalmente, se específican los parámetros de velocidad, la herramienta y el objeto de trabajo.
+
+[![IMG-20230930-192159.jpg](https://i.postimg.cc/G2Y157Pb/IMG-20230930-192159.jpg)](https://postimg.cc/zbJMLkPQ)
+
